@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml:1:1-41
+	package
+		ADDED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml:1:11-38
+		INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml:1:1-41
+uses-sdk
+INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml
+INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml
+		ADDED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/ngmm/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.3+4/android/src/main/AndroidManifest.xml
